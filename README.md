@@ -3,6 +3,9 @@ Deploy web application using serverless application
 
 In this project we will use 5 AWS services to build end to end application. AWS Amplify, AWS Lambda, Amazon API Gateway, Amazon DynamoDB, AWS IAM.
 
+![Web application using aws serverless architecture](https://github.com/user-attachments/assets/db2da0db-7929-466e-9d1e-1e94a9d56f63)
+
+
 
 Steps to complete the project:
 
